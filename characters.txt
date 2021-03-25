@@ -1,0 +1,9 @@
+Monkey
+Crocodile
+<<<<<<< HEAD
+monkey's heart
+=======
+Crocodile's wife
+monkey's heart
+crocodile's father
+>>>>>>> mystory3
